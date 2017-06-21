@@ -1,4 +1,4 @@
-​# Missing Link
+# Missing Link
 
 Overview and Motivation
 -----------------------
